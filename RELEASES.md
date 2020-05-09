@@ -1,4 +1,4 @@
-Version 0.7.4 (2020-03-20)
+Version 0.7.4 (2020-03-20) 
 ========================
  * New driving model: improved lane changes and lead car detection
  * Improved driver monitoring model: improve eye detection
